@@ -33,6 +33,7 @@ I actively share my insights on integrating AI with DevOps, developing mobile ap
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mehboob-maitla/)
 - **Email:** [Email](mehboobmaitla@gmail.com)
+- **LeetCode:** [Problem-Solving Skill](https://leetcode.com/MehboobMaitla/)
 
 ### 👀 Looking Forward
 
