@@ -1,6 +1,6 @@
 # Hello, I'm Mehboob Ahmad! 👋
 
-## DevOps & AI Enthusiast | Docker & Azure Expert | .NET Developer | Junior SAP B1 Integration Specialist
+## DevOps & AI Enthusiast | Docker & Azure Expert | .NET Developer | SAP B1 SDK
 Welcome to my GitHub profile! I'm a versatile DevOps Engineer with a passion for streamlining software development and operations. My expertise spans across Docker, Azure DevOps, .NET technologies, mobile app development with Xamarin and Flutter, AI with Python, and notably, SAP B1 integration. I thrive on creating efficient, scalable solutions that leverage the latest in tech to solve real-world problems.
 
 ### 🛠 Tech Stack
